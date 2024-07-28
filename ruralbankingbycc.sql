@@ -112,11 +112,11 @@ CREATE TABLE `user` (
 INSERT INTO `user` (`accountno`, `name`, `photo`, `phonenumber`, `email`, `address`, `adharnumber`, `password`, `date`, `status`) VALUES
 (3462000, 'sasdfa', 'fasd', '1232', 'fasdf', 'asdf', 'asdfasd', 'asdfas', 'asdfasd', 'adsfasdf'),
 (3462001, 'werq', 'qwerq', '123', 'sdgs', 'asdg', 'ads', 'asd', 'ad', 'asd'),
-(3462002, 'Mohammed Nizamuddin', 'photos/pho2106202308.58.079876543211.jpg', '1234567890', 'nizamuddin@gmail.com', 'rml nagar shivamoga', '123456789012', '123', '29-05-2023', 'D'),
-(3462003, 'Mohammed shahid', 'photos/pho2106202308.57.109876543211.jpg', '1234567452', 'shahid@gmail.com', 'bhadravati', '123456786543', '123', '29-05-2023', 'D'),
-(3462004, 'MMNM', 'photos/pho0906202307.30.101234567453.jpg', '8520369450', 'mmnm@gmail.com', 'dvs,shimoga', '552058961234', '123456789', '09-06-2023', 'A'),
-(3462005, 'mn', 'photos/pho1606202308.30.158520369451.jpg', '9876543210', 'mn@gmail.com', 'smg', '234512345678', 'mnn', '16-06-2023', 'A'),
-(3462006, 'Abdul Razak', 'photos/pho2106202308.59.499876543211.jpg', '6363480944', 'razak@gmail.com', 'RML Nagar Shivamogga', '668801239980', 'razak123', '21-06-2023', 'A');
+(3462002, 'Mohammed Nizamuddin', 'photos/pho2106202308.58.079876543211.jpg', '1234567890', 'nizamuddin@gmail.com', 'rml nagar shivamoga', '123456789012', '', '29-05-2023', 'D'),
+(3462003, 'Mohammed shahid', 'photos/pho2106202308.57.109876543211.jpg', '1234567452', 'shahid@gmail.com', 'bhadravati', '123456786543', '', '29-05-2023', 'D'),
+(3462004, 'MMNM', 'photos/pho0906202307.30.101234567453.jpg', '8520369450', 'mmnm@gmail.com', 'dvs,shimoga', '552058961234', '', '09-06-2023', 'A'),
+(3462005, 'mn', 'photos/pho1606202308.30.158520369451.jpg', '9876543210', 'mn@gmail.com', 'smg', '234512345678', '', '16-06-2023', 'A'),
+(3462006, 'Abdul Razak', 'photos/pho2106202308.59.499876543211.jpg', '6363480944', 'razak@gmail.com', 'RML Nagar Shivamogga', '668801239980', '', '21-06-2023', 'A');
 
 --
 -- Indexes for dumped tables
