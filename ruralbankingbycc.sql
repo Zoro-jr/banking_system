@@ -110,8 +110,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`accountno`, `name`, `photo`, `phonenumber`, `email`, `address`, `adharnumber`, `password`, `date`, `status`) VALUES
-(3462000, 'sasdfa', 'fasd', '1232', 'fasdf', 'asdf', 'asdfasd', 'asdfas', 'asdfasd', 'adsfasdf'),
-(3462001, 'werq', 'qwerq', '123', 'sdgs', 'asdg', 'ads', 'asd', 'ad', 'asd'),
+(3462000, 'sasdfa', 'fasd', '1232', 'fasdf', 'asdf', 'asdfasd', '', 'asdfasd', 'adsfasdf'),
+(3462001, 'werq', 'qwerq', '123', 'sdgs', 'asdg', 'ads', '', 'ad', 'asd'),
 (3462002, 'Mohammed Nizamuddin', 'photos/pho2106202308.58.079876543211.jpg', '1234567890', 'nizamuddin@gmail.com', 'rml nagar shivamoga', '123456789012', '', '29-05-2023', 'D'),
 (3462003, 'Mohammed shahid', 'photos/pho2106202308.57.109876543211.jpg', '1234567452', 'shahid@gmail.com', 'bhadravati', '123456786543', '', '29-05-2023', 'D'),
 (3462004, 'MMNM', 'photos/pho0906202307.30.101234567453.jpg', '8520369450', 'mmnm@gmail.com', 'dvs,shimoga', '552058961234', '', '09-06-2023', 'A'),
