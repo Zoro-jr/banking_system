@@ -1,4 +1,6 @@
 # banking_system
+
+SUMMARY:-
 As this is a Rural Banking website from this we make the people to do their transactions in a easier way.                                                                                                                                                                                                                                                                                               
 In this we a have a have Admin login and User login.
 In Admin login we have the information about the all accounts that are in the bank information of the persons accounts,transactions and the admin can make the manage the all users account.
